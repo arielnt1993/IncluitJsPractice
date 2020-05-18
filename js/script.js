@@ -7,9 +7,8 @@ class Main extends Form {
         console.log('Script init');
         this.multichoiceIndustry();
         this.initAddNumOfChildren();
-        
     }
-    
+    //test
     // En el paso 2 al seleccionar los hijos menores de 18 años debe mostrar
     // los datos a completar de los hijos según el número de los mismos, por
     // lo tanto se deberia copiar la fila Child #1 y generar para los demás,
